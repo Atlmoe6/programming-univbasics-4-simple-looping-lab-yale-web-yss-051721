@@ -4,4 +4,3 @@ def loop_message_five_times (array)
   while array[counter] <= 5
   puts "Hello World"
   counter+=1
-end
